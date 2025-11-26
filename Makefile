@@ -7,7 +7,8 @@ include $(THEOS)/makefiles/common.mk
 TWEAK_NAME = UnlockSmartCast
 
 UnlockSmartCast_FILES = \
-			Tweak.xm
+			Tweak.xm \
+			Hooks/NSUserDefaultsHooks.xm
 
 UnlockSmartCast_CFLAGS = -fobjc-arc
 
