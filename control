@@ -1,0 +1,9 @@
+Package: com.letiendat.unlocksmartcast
+Name: UnlockSmartCast
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Unlock premium + Remove ads Smart Cast app.
+Maintainer: Le Tien Dat
+Author: Le Tien Dat
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
